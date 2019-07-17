@@ -4,3 +4,4 @@ log/*
 !log/。
 vgg16/*
 !vgg16/。
+!vgg16/vgg16.meta
