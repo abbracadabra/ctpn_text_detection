@@ -7,7 +7,7 @@
 - no recurrent network
 
 ## data source
-<a src='https://pan.baidu.com/s/1nbbCZwlHdgAI20_P9uw9LQ'>baidu cloud drive</a>
+<a href='https://pan.baidu.com/s/1nbbCZwlHdgAI20_P9uw9LQ'>baidu cloud drive</a>
 
 ## dependency
 - tensorflow(1.12.0)
