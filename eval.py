@@ -15,8 +15,8 @@ ypred = tf.get_default_graph().get_tensor_by_name("y_pred:0")#[N,H,W,10,2] ϵ{-�
 sess = tf.Session()
 saver = tf.train.Saver()
 saver.restore(sess,model_dir)
-#D:\Users\yl_gong\Desktop\
-impath = r'D:\Users\yl_gong\Desktop\微信图片_20190716104633.jpg'
+#D:\Users\xxx\Desktop\
+impath = r'D:\Users\xxx\Desktop\20190716104633.jpg'
 imagepil = Image.open(impath)
 im = load_img(impath)
 im = img_to_array(im)
