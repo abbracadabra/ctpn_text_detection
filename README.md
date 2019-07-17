@@ -1,6 +1,6 @@
 ## references
-- <a src='https://arxiv.org/abs/1609.03605'>paper</a>
-- <a src='https://github.com/eragonruan/text-detection-ctpn'>a github repo where i get train images and its processed labels</a>
+- <a href='https://arxiv.org/abs/1609.03605'>paper</a>
+- <a href='https://github.com/eragonruan/text-detection-ctpn'>a github repo where i get train images and its processed labels</a>
 
 ## difference of mine from the paper
 - no side refinement
