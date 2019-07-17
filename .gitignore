@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+log/*
+!log/。
+vgg16/*
+!vgg16/。
